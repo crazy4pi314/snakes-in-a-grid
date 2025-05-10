@@ -1,7 +1,8 @@
 # Snakes in a Grid: Working with spreadsheets with Python + Python in Excel
+_Resources for [PyCon 2025 Tutorial "Snakes in a Grid: Working with spreadsheets with Python + Python in Excel"](https://us.pycon.org/2025/schedule/presentation/37/)_
+
 <img src="img/tutorial-grid-snakes-dark-qr.png" width=50% height=50%>
 
-Resources for [PyCon 2025 Tutorial "Snakes in a Grid: Working with spreadsheets with Python + Python in Excel"](https://us.pycon.org/2025/schedule/presentation/37/)
 
 ## Tutorial Preparation
 
