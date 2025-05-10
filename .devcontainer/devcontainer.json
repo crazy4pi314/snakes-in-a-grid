@@ -1,13 +1,22 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/miniconda
 {
-	"name": "Miniconda (Python 3)",
+	"name": "Miniconda",
 	"build": { 
 		"context": "..",
 		"dockerfile": "Dockerfile"
 	},
 	"features": {
 		"ghcr.io/jsburckhardt/devcontainer-features/uv:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-toolsai.jupyter",
+				"ms-python.python",
+				"mechatroner.rainbow-csv"
+			]
+		}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.

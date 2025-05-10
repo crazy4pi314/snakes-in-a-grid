@@ -1,0 +1,13 @@
+[project]
+name = "snakes-in-a-grid"
+version = "0.1.0"
+description = "PyCon 2025 Tutorial 'Snakes in a Grid: Working with spreadsheets with Python + Python in Excel'"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "numpy>=2.2.5",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+    "pillow>=11.2.1",
+]
