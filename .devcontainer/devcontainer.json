@@ -14,7 +14,9 @@
 			"extensions": [
 				"ms-toolsai.jupyter",
 				"ms-python.python",
-				"mechatroner.rainbow-csv"
+				"mechatroner.rainbow-csv",
+				"GrapeCity.gc-excelviewer",
+				"ms-toolsai.datawrangler"
 			]
 		}
 	}
