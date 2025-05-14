@@ -21,7 +21,7 @@
 				"ms-vscode.live-server"
 			]
 		}
-	}
+	},
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
@@ -30,7 +30,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "python --version",
+	"postCreateCommand": "uv sync"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
