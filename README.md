@@ -33,6 +33,3 @@ If you are interested in getting the Python in Excel features on your own M365 l
 ## Other Resources
 - [Using Pandas and XlsxWriter to create Excel charts](https://pandas-xlsxwriter-charts.readthedocs.io/)
 - [Python in Excel documentation](https://aka.ms/pyinxl)
-
----
->More content coming soon!
